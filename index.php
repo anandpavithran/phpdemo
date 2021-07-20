@@ -1,3 +1,3 @@
-
-print "Hello, World! BLUE-UPDATED" . PHP_VERSION . "\n";
-
+<?
+print "Hello, World!" . PHP_VERSION . "\n";
+?>
