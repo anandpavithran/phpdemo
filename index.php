@@ -1,8 +1,6 @@
 
 <?php
-echo "Hello World!GOODMORNING<br>";
-echo "Hello World!<br>";
-echo "Hello World!<br>";
+echo "GOODEVENING 28072021<br>";
 ?>
 
 
