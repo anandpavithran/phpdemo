@@ -1,1 +1,0 @@
-https://api.ap46.prod.nextcle.com:6443/apis/build.openshift.io/v1/namespaces/test500/buildconfigs/test5/webhooks/cho_UzCLU04PJXygF0Rs/github
