@@ -1,6 +1,6 @@
 
 <?php
-echo "GREEN UPDATED 01092021-hope you understood<br>";
+echo "GREEN UPDATED 01092021-CHAPTER-6-IMAGE STREAM<br>";
 ?>
 
 
