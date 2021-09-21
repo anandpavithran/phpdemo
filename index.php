@@ -1,6 +1,6 @@
 
 <?php
-echo "GREEN UPDATED 21092021-<br>";
+echo "GoodEvening 21092021-<br>";
 ?>
 
 
