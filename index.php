@@ -1,6 +1,6 @@
 
 <?php
-echo "GoodMorning 28092021-<br>";
+echo "GoodAFternoon 28092021-<br>";
 ?>
 
 
