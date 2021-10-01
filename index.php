@@ -1,6 +1,6 @@
 
 <?php
-echo "GITHUBTRIGGER DEMO 30092021-<br>";
+echo "GREEN DEMO 01102021-<br>";
 ?>
 
 
