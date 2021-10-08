@@ -1,6 +1,6 @@
 
 <?php
-echo "NEW UPDATED SERVING DEMO 01102021-<br>";
+echo "SERVING DEMO 01102021-<br>";
 ?>
 
 
