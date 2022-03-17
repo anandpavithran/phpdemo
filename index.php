@@ -1,6 +1,6 @@
 
 <?php
-echo "GoodMorning GREEN-update<br>";
+echo "GoodMorning BLUE-update<br>";
 ?>
 
 
