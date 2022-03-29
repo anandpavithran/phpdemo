@@ -1,6 +1,6 @@
 
 <?php
-echo "GoodMorning test-update BY IBM <br>";
+echo "GoodAFTERNOON test-update BY ERICSSON <br>";
 ?>
 
 
