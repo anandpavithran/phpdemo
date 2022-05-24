@@ -1,6 +1,6 @@
 
 <?php
-echo "GoodAfternoon-18052022 test-update BEFORE LUNCH BREAK BY HCL <br>";
+echo "GoodAfternoon-24052022 test-update BEFORE LUNCH BREAK BY ERICSSON <br>";
 ?>
 
 
