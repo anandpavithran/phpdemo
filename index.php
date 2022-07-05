@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>  
-  <b>HDFC BANK</b>
+  <b>ERICSSON</b>
 <?php
 // define variables and set to empty values
 $name = $email = $gender = $comment = $website = "";
