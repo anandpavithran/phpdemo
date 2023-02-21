@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>  
-  <b>REDHAT UPDATED FEB 20-updated Good Morning</b>
+  <b>REDHAT UPDATED FEB 21-updated Good Afternoon</b>
 <?php
 // define variables and set to empty values
 $name = $email = $gender = $comment = $website = "";
