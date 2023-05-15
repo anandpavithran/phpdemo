@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>  
-  <b>GREEN REDHAT UPDATED March 07-updated Good Afternoon updated again</b>
+  <b>GREEN REDHAT UPDATED May 15-updated Good Afternoon updated again</b>
 <?php
 // define variables and set to empty values
 $name = $email = $gender = $comment = $website = "";
