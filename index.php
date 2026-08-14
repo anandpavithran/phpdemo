@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>  
-  <b>REDHAT UPDATED JULY13-updated Good AFTERNOON again-updated webhook</b>
+  <b>REDHAT UPDATED AUGUST 14</b>
 <?php
 // define variables and set to empty values
 $name = $email = $gender = $comment = $website = "";
